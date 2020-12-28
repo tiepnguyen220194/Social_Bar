@@ -1,2 +1,4 @@
 # Social_Bar
-Nhúng nhiều mạng xã hội vào web bằng tay
+Nhúng nhiều MXH vào web
+
+Share lên các MXH như : Facebook, Skype, Gmail, Twitter, Zalo
