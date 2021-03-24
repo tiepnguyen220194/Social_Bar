@@ -1,6 +1,6 @@
 <div class="social-bar">
     <!--twitter-->
-    <a href="http://twitter.com/share" class="twitter-share-button"
+    <a href="https://twitter.com/share" class="twitter-share-button"
         data-url="<?php the_permalink(); ?>"
         data-via="wpbeginner"
         data-text="<?php the_title(); ?>"
@@ -16,7 +16,7 @@
     </div>
     <!--fb-->
     <div class="btfbl">
-        <div class="fb-like" data-href="<?php the_permalink();?>" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+        <div class="fb-like" data-href="<?php the_permalink();?>" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
     </div>
 </div>
 
@@ -72,7 +72,7 @@
 </script>
 <!-- <script async src="https://static.addtoany.com/menu/page.js"></script> -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!--gmail-->
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script><!--twitter-->
+<script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script><!--twitter-->
 <script src="https://sp.zalo.me/plugins/sdk.js"></script><!--zalo-->
 
 
